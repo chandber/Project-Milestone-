@@ -15,4 +15,3 @@
     <h2>Table of contents</h2>
  my-repo/
 
-   
