@@ -8,11 +8,11 @@
 </head>
 <body>
     <main>
-    <h1>Cookie and Privicay</h1>
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="content.html">table of contents</a>
+    <h1>Cookie and Privicay</h1>   
     </nav>
     <h2>Introduction</h2>
-    <p> For my research I am going to do a research on cookies and privicy. Website Cookies are text that appear in browsers every time you vit a website.:</p>
+    <p> For my research I am going to do a research on cookies and privicy. Website Cookies are text that appear in browsers every time you vist a website and privcy. Cookies record users data for advertsing reason despite this affecting the clickers privcy:</p>
+    <h2>Table of contents</h2>
+ my-repo/
+
    
