@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <link rel="stylesheet" href="style-a.css">
 </head>
 <body>
     <main>
@@ -15,4 +14,10 @@
     </nav>
     <h2>Introduction</h2>
     <p> For my research I am going to do a research on cookies and privicy. Website Cookies are text that appear in browsers every time you vit a website.:</p>
-   
+ </head>
+<body>
+    <main>
+    <h1>Table Content</h1>
+    <nav>
+      
+    
