@@ -1,35 +1,17 @@
-# Project-Milestone-
-<header>
-   <p>Homepage</p>
-</header>
-  
-</header>
-About page::
-</header>
-  <div id="row2">
-    <div id="left"></div>
-    <div id="main">
-      <p>My name is chandler handberry I am a media major and this project is on .</p>
-      
----
-        
-References and resources page:
-</header>
-  <div id="row2">
-    <div id="left">TBA</div>
-    <div id="main">
-      <p>Tba.</p>
-
----
-
-Key concepts page:
-</header>
-  <div id="row2">
-    <div id="left"></div>
-    <div id="main">
-      <p>  .</p>
-
-
----
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style-a.css">
+</head>
+<body>
+    <main>
+    <h1>Cookie and Privicay</h1>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="content.html">table of contents</a>
+    </nav>
+    <h2>Introduction</h2>
+    <p>  My name is chandler Handberry I am a media and entertainment major but an IT minor.:</p>
+   
