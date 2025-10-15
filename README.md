@@ -20,5 +20,3 @@
   <a href=" #gh repo clone chandber/Key-concepts-page ">Key concepts</a>
   <a href=" gh repo clone chandber/References-and-resources-page-">References-and-resources</a>
 
- 
-
