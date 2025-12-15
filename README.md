@@ -1,10 +1,5 @@
-[Homepage.html](https://github.com/user-attachments/files/24138436/Homepage.html)[references.html]
-
-
-(https://github.com/user-attachments/files/24138427/references.html)
-
-
-[Uploading <!DOCTYPE html>
+[Cookies.html](https://github.com/user-attachments/files/24159871/Cookies.html)
+[Homepage.html](https://github.com/user-attachments/files/24159746/Homepage.html)<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -116,8 +111,8 @@
             <li><a href="Homepage.html">Home Page</a></li>
             <li><a href="references.html">Reference / Resources Page</a></li>
             <li><a href="key concept.html">Key Concepts Page</a></li>
-            <li><a href="Cookies.html">Cookies</a></li>
-            <li><a href="Privacy.html">Privacy</a></li>
+            <li><a href="content-page1.html">Main Content Page 1</a></li>
+            <li><a href="content-page2.html">Main Content Page 2</a></li>
             <li><a href="about me.html">About / Author Page</a></li>
             <li><a href="quiz.html">Quiz Page</a></li>
         </ul>
@@ -161,7 +156,47 @@
 
 </body>
 </html>
-Homepage.html…]()
+
+
+
+
+[about me.html](https://github.com/user-attachments/files/24159791/about.me.html)
+
+<section class="about-me">
+  <h2>About Me</h2>
+  <p>
+    My name is <strong>Chandler Handberry</strong>, and my major is in 
+    <strong>Media and Entertainment</strong>. I am also minoring in 
+    <strong>Information Technology</strong> and currently learning how to 
+    develop websites.
+  </p>
+</section>
+
+<style>
+  .about-me {
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #c08561;
+    border-radius: 8px;
+    color: #333;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+
+  .about-me h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #0077ff;
+    padding-bottom: 6px;
+    color: #222;
+  }
+
+  .about-me p {
+    font-size: 18px;
+  }
+</style>
 
 
 
@@ -169,11 +204,9 @@ Homepage.html…]()
 
 
 
+[references.html](https://github.com/user-attachments/files/24159837/references.html)
 
-
-[Cookies and privacy.html](https://github.com/user-attachments/files/24138413/Cookies.and.privacy.html)
-
-[<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -364,414 +397,9 @@ Homepage.html…]()
       </table>
 <img width="200" src="https://plus.unsplash.com/premium_photo-1683120731413-b3aa991cb64e?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bWFuJTIwcmVhZGluZyUyMGJvb2t8ZW58MHx8MHx8fDA%3D">
       <p>
-     
-   Uploading references.html…]()
 
 
-[about me.html](https://github.com/user-attachments/files/24138396/about.me.html)<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KSU IT 3203</title>
-    <link rel="stylesheet" href="style-a.css">
-</head>
- <style>
-        /* Professional Business Look */
-
-        body {
-            margin: 0;
-            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-            background: #f4f6f9; /* light corporate gray */
-            color: #333;
-        }
-
-        /* Navigation / Table of Contents */
-        nav.main-menu {
-            background: #ffffff;
-            border-bottom: 2px solid #e0e0e0;
-            padding: 20px;
-            width: 90%;
-            margin: 20px auto;
-            border-radius: 8px;
-            box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-        }
-
-        nav.main-menu h2 {
-            color: #005a9e; /* corporate blue */
-            margin-top: 0;
-        }
-
-        nav.main-menu ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
-
-        nav.main-menu li {
-            padding: 8px 0;
-        }
-
-        nav.main-menu a {
-            color: #005a9e;
-            font-weight: 600;
-            text-decoration: none;
-        }
-
-        nav.main-menu a:hover {
-            text-decoration: underline;
-        }
-
-        /* Main Content Container */
-        main {
-            background: #ffffff;
-            width: 90%;
-            margin: 20px auto;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-        }
-
-        h1 {
-            color: #003e6b;
-        }
-
-        h2, h3 {
-            color: #005a9e;
-        }
-
-        img {
-            border-radius: 6px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.12);
-        }
-
-        /* External Tools Section */
-        .external-sites a {
-            display: inline-block;
-            margin: 10px 15px 10px 0;
-            padding: 10px 15px;
-            background: #005a9e;
-            color: white;
-            border-radius: 6px;
-            text-decoration: none;
-            font-size: 14px;
-            transition: 0.2s;
-        }
-
-        .external-sites a img {
-            vertical-align: middle;
-            margin-right: 6px;
-        }
-
-        .external-sites a:hover {
-            background: #003e6b;
-        }
-        
-    </style>
-</head>
-
-<body>
-<body>
-
-    <!-- MAIN MENU / TABLE OF CONTENTS -->
-    <nav class="main-menu">
-        <h2>Table of Contents</h2>
-        <ul>
-            <li><a href="Homepage.html">Home Page</a></li>
-            <li><a href="references.html">Reference / Resources Page</a></li>
-            <li><a href="key concept.html">Key Concepts Page</a></li>
-            <li><a href="content-page1.html">Main Content Page 1</a></li>
-            <li><a href="content-page2.html">Main Content Page 2</a></li>
-            <li><a href="about me.html">About / Author Page</a></li>
-            <li><a href="quiz.html">Quiz Page</a></li>
-        </ul>
-    </nav>
-
-    <main>
-
-        <h1>Cookies and Privacy</h1>
-
-        <img width="200" src="https://images.pexels.com/photos/230325/pexels-photo-230325.jpeg?cs=srgb&dl=pexels-fotios-photos-230325.jpg&fm=jpg" alt="Cookies Image">
-
-        <h2>Introduction</h2>
-        <p>
-            For my research I am exploring the topic of website cookies and online privacy.
-            Website cookies are small text files stored in your browser whenever you visit a website.
-            These cookies collect data about your behavior and preferences, often for advertising
-            or analytics purposes. While they improve user experience, they can also affect the user's privacy.
-        </p>
-
-        <h3>Tools Used in This Class</h3>
-        <div class="external-sites">
-
-            <a href="http://127.0.0.1:3000/Users/chandlerhandberry/Desktop/<!DOCTYPE html>.html?serverWindowId=09de97ae-be36-42f0-8031-f2d6770e373c" target="_blank">
-                <img width="20" src="https://code.visualstudio.com/assets/images/code-stable.png">
-                References
-            </a>
-
-            <a href="https://pages.github.com" target="_blank">
-                <img width="20" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png">
-                GitHub Pages
-            </a>
-
-            <a href="https://codepen.io/" target="_blank">
-                <img width="13" src="https://blog.codepen.io/wp-content/uploads/2023/09/logo-black.png">
-                CodePen
-            </a>
-
-        </div>
-
-    </main>
-
-</body>
-</html>
-
-[Homepage (1).html](https://github.com/user-attachments/files/24138395/Homepage.1.html)
-
-[Uploading about
-<section class="about-me">
-  <h2>About Me</h2>
-  <p>
-    My name is <strong>Chandler Handberry</strong>, and my major is in 
-    <strong>Media and Entertainment</strong>. I am also minoring in 
-    <strong>Information Technology</strong> and currently learning how to 
-    develop websites.
-  </p>
-</section>
-
-<style>
-  .about-me {
-    max-width: 700px;
-    margin: 40px auto;
-    padding: 20px;
-    background: #c08561;
-    border-radius: 8px;
-    color: #333;
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 1.6;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  }
-
-  .about-me h2 {
-    font-size: 28px;
-    margin-bottom: 10px;
-    border-bottom: 2px solid #0077ff;
-    padding-bottom: 6px;
-    color: #222;
-  }
-
-  .about-me p {
-    font-size: 18px;
-  }
-</style>
- me.html…]()
-
-[Uploading Cookies and privacy.html…](<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>Cookies and Privacy</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <style>
-    * {
-      box-sizing: border-box;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    }
-
-    body {
-      margin: 0;
-      padding: 20px;
-      background: #6b502c;
-      display: flex;
-      justify-content: center;
-    }
-
-    .quiz-container {
-      background: #a3714f;
-      max-width: 700px;
-      width: 100%;
-      padding: 24px;
-      border-radius: 16px;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.08);
-    }
-
-    h1 {
-      margin-top: 0;
-      text-align: center;
-    }
-
-    .question {
-      margin-bottom: 20px;
-      padding: 16px;
-      border-radius: 12px;
-      background: #917456;
-      border: 1px solid #e0e0e0;
-    }
-
-    .question h2 {
-      margin: 0 0 12px 0;
-      font-size: 18px;
-    }
-
-    .options label {
-      display: block;
-      margin-bottom: 8px;
-      cursor: pointer;
-    }
-
-    .actions {
-      margin-top: 16px;
-      display: flex;
-      gap: 10px;
-      flex-wrap: wrap;
-    }
-
-    button {
-      border: none;
-      padding: 10px 18px;
-      border-radius: 999px;
-      cursor: pointer;
-      font-size: 14px;
-    }
-
-    #submitBtn {
-      background: #925d26;
-      color: white;
-    }
-
-    #resetBtn {
-      background: #b58338;
-      color: #f3e5dd;
-    }
-
-    #result {
-      margin-top: 20px;
-      font-size: 16px;
-      font-weight: 600;
-    }
-
-    .correct {
-      color: #a66a2f;
-    }
-
-    .incorrect {
-      color: #dc2626;
-    }
-  </style>
-</head>
-<body>
-  <div class="quiz-container">
-    <h1>Cookies and Privacy</h1>
-    <p>Choose the best answer for each question, then click <strong>Submit</strong>.</p>
-
-    <!-- Question 1 -->
-    <div class="question">
-      <h2>1. What are cookies</h2>
-      <div class="options">
-        <label><input type="radio" name="q1" value="a"> Small pieces of data that websites store on your device to remember information about you.</label>
-        <label><input type="radio" name="q1" value="b"> Files that clean viruses from your computer</label>
-        <label><input type="radio" name="q1" value="c"> Programs that track everything you do online without permission.</label>
-        <label><input type="radio" name="q1" value="d"> Graphics that make a website look nicer.</label>
-      </div>
-    </div>
-
-    <!-- Question 2 -->
-    <div class="question">
-      <h2>2. Whats is Privacy</h2>
-      <div class="options">
-        <label><input type="radio" name="q2" value="a">&lt;What does "personal data" mean?&gt;</label>
-        <label><input type="radio" name="q2" value="b">&lt;Why is it important to keep your passwords private?&gt;</label>
-        <label><input type="radio" name="q2" value="c">&lt;What is two-factor authentication?&gt;</label>
-        <label><input type="radio" name="q2" value="d">&lt;What is the difference between private and public information?&gt;</label>
-      </div>
-    </div>
-
-    <!-- Question 3 -->
-    <div class="question">
-      <h2>3. What Parties can it function?</h2>
-      <div class="options">
-        <label><input type="radio" name="q3" value="a"> First-party</label>
-        <label><input type="radio" name="q3" value="b"> Second Party</label>
-        <label><input type="radio" name="q3" value="c"> Necessary/strictly necessary</label>
-
-      </div>
-    </div>
-
-    <!-- Question 4 -->
-    <div class="question">
-      <h2>4. 4. Can cookies track websites?</h2>
-      <div class="options">
-        <label><input type="radio" name="q4" value="a">&lt;True&gt;</label>
-        <label><input type="radio" name="q4" value="b">&lt;False&gt;</label>
-    
-      </div>
-    </div>
-
-
-
-    <div class="actions">
-      <button id="submitBtn">Submit</button>
-      <button id="resetBtn" type="button">Reset</button>
-    </div>
-
-    <div id="result"></div>
-  </div>
-
-  <script>
-    (function () {
-      const correctAnswers = {
-        q1: "c",
-        q2: "b",
-        q3: "b",
-        q4: "d",
-        q5: "a"
-      };
-
-      const submitBtn = document.getElementById("submitBtn");
-      const resetBtn = document.getElementById("resetBtn");
-      const resultDiv = document.getElementById("result");
-
-      submitBtn.addEventListener("click", function () {
-        let score = 0;
-        let total = Object.keys(correctAnswers).length;
-        let unanswered = [];
-
-        for (const q in correctAnswers) {
-          const selected = document.querySelector(`input[name="${q}"]:checked`);
-          if (!selected) {
-            unanswered.push(q);
-            continue;
-          }
-          if (selected.value === correctAnswers[q]) {
-            score++;
-          }
-        }
-
-        if (unanswered.length > 0) {
-          resultDiv.textContent = "Please answer all questions before submitting.";
-          resultDiv.className = "incorrect";
-          return;
-        }
-
-        const percentage = Math.round((score / total) * 100);
-        resultDiv.className = score === total ? "correct" : "incorrect";
-        resultDiv.textContent = `You scored ${score} out of ${total} (${percentage}%).`;
-      });
-
-      resetBtn.addEventListener("click", function () {
-        const radios = document.querySelectorAll('input[type="radio"]');
-        radios.forEach(r => r.checked = false);
-        resultDiv.textContent = "";
-        resultDiv.className = "";
-      });
-    })();
-  </script>
-</body>
-</html>)
-
-
-
-[key concept.html](https://github.com/user-attachments/files/24138414/key.concept.html)<!DOCTYPE html>
+[key concept.html](https://github.com/user-attachments/files/24159866/key.concept.html)<!DOCTYPE html>
 <html lang="en">
 <head>
 <style>
@@ -898,1125 +526,879 @@ Homepage.html…]()
 </body>
 </html>
 
-[quiz.html](https://github.com/user-attachments/files/24138415/quiz.html)<!DOCTYPE html>
+
+
+
+
+
+
+[Upl<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Cookies and Privacy</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Cookies & Privacy Cookies</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
+    :root {
+      --bg: #db984c;
+      --card: #ffffff;
+      --text: #222222;
+      --muted: #666666;
+      --accent: #2563eb;
+      --border: #e2e2ea;
+    }
+
     * {
       box-sizing: border-box;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     }
 
     body {
       margin: 0;
-      padding: 20px;
-      background: #6b502c;
-      display: flex;
-      justify-content: center;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
     }
 
-    .quiz-container {
-      background: #a3714f;
-      max-width: 700px;
-      width: 100%;
-      padding: 24px;
+    .page {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 3rem;
+      display: grid;
+      grid-template-columns: minmax(0, 2.2fr) minmax(260px, 1fr);
+      gap: 2.5rem;
+    }
+
+    @media (max-width: 900px) {
+      .page {
+        grid-template-columns: minmax(0, 1fr);
+      }
+    }
+
+    .main-card {
+      background: var(--card);
       border-radius: 16px;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+      padding: 2rem;
+      box-shadow: 0 12px 30px rgba(15, 23, 42, 0.06);
+      border: 1px solid var(--border);
     }
 
     h1 {
       margin-top: 0;
-      text-align: center;
+      margin-bottom: 0.75rem;
+      font-size: 1.9rem;
+      letter-spacing: -0.02em;
     }
 
-    .question {
-      margin-bottom: 20px;
-      padding: 16px;
-      border-radius: 12px;
-      background: #917456;
-      border: 1px solid #e0e0e0;
+    .subtitle {
+      margin-top: 0;
+      margin-bottom: 1.5rem;
+      color: var(--muted);
+      font-size: 0.95rem;
     }
 
-    .question h2 {
-      margin: 0 0 12px 0;
-      font-size: 18px;
+    h2 {
+      margin-top: 2.25rem;
+      margin-bottom: 0.75rem;
+      font-size: 1.2rem;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.3rem;
     }
 
-    .options label {
-      display: block;
-      margin-bottom: 8px;
-      cursor: pointer;
+    h3 {
+      margin-top: 1.5rem;
+      margin-bottom: 0.25rem;
+      font-size: 1rem;
     }
 
-    .actions {
-      margin-top: 16px;
-      display: flex;
-      gap: 10px;
-      flex-wrap: wrap;
+    p {
+      margin-top: 0.4rem;
+      margin-bottom: 0.9rem;
+      font-size: 0.95rem;
     }
 
-    button {
-      border: none;
-      padding: 10px 18px;
-      border-radius: 999px;
-      cursor: pointer;
-      font-size: 14px;
+    ul {
+      margin-top: 0.3rem;
+      margin-bottom: 1rem;
+      padding-left: 1.2rem;
+      font-size: 0.95rem;
     }
 
-    #submitBtn {
-      background: #925d26;
-      color: white;
+    li + li {
+      margin-top: 0.25rem;
     }
 
-    #resetBtn {
-      background: #b58338;
-      color: #f3e5dd;
+    .toc-card {
+      background: var(--card);
+      border-radius: 16px;
+      padding: 1.5rem;
+      box-shadow: 0 12px 30px rgba(15, 23, 42, 0.06);
+      border: 1px solid var(--border);
+      position: sticky;
+      top: 1.5rem;
+      align-self: flex-start;
+      max-height: calc(100vh - 3rem);
+      overflow: auto;
     }
 
-    #result {
-      margin-top: 20px;
-      font-size: 16px;
+    .toc-title {
+      font-size: 1rem;
       font-weight: 600;
+      margin-top: 0;
+      margin-bottom: 0.75rem;
     }
 
-    .correct {
-      color: #a66a2f;
+    .toc {
+      list-style: none;
+      padding-left: 0;
+      margin: 0;
+      font-size: 0.9rem;
     }
 
-    .incorrect {
-      color: #dc2626;
+    .toc li {
+      margin: 0.1rem 0;
+    }
+
+    .toc a {
+      text-decoration: none;
+      color: var(--muted);
+      transition: color 0.15s ease;
+    }
+
+    .toc a:hover {
+      color: var(--accent);
+    }
+
+    .toc .toc-section {
+      margin-top: 0.35rem;
+      font-weight: 500;
+    }
+
+    .toc .toc-sub {
+      padding-left: 1rem;
+      font-weight: 400;
+      font-size: 0.88rem;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      border-radius: 999px;
+      padding: 0.15rem 0.75rem;
+      font-size: 0.78rem;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      margin-right: 0.4rem;
+      margin-bottom: 0.4rem;
+      background: #f9fafb;
+    }
+
+    .muted {
+      color: var(--muted);
+    }
+
+    .contact-box {
+      border-left: 3px solid var(--accent);
+      background: #f3f4ff;
+      padding: 0.75rem 1rem;
+      font-size: 0.9rem;
+      border-radius: 10px;
+      margin-top: 1.5rem;
+    }
+
+    code {
+      background: #9f5d37;
+      padding: 0.1rem 0.35rem;
+      border-radius: 4px;
+      font-size: 0.85rem;
     }
   </style>
 </head>
 <body>
-  <div class="quiz-container">
-    <h1>Cookies and Privacy</h1>
-    <p>Choose the best answer for each question, then click <strong>Submit</strong>.</p>
+  <main class="page">
 
-    <!-- Question 1 -->
-    <div class="question">
-      <h2>1. What are cookies</h2>
-      <div class="options">
-        <label><input type="radio" name="q1" value="a"> Small pieces of data that websites store on your device to remember information about you.</label>
-        <label><input type="radio" name="q1" value="b"> Files that clean viruses from your computer</label>
-        <label><input type="radio" name="q1" value="c"> Programs that track everything you do online without permission.</label>
-        <label><input type="radio" name="q1" value="d"> Graphics that make a website look nicer.</label>
-      </div>
-    </div>
+    <!-- MAIN CONTENT -->
+    <article class="main-card">
+      <header>
+        <h1>Cookies</h1>
+        <p class="subtitle">
+          Cookies are small text files that websites store on your device (computer, tablet, or phone) when you visit them. They help websites remember information about you, such as login details, preferences, or items in a shopping cart..
+        </p>
 
-    <!-- Question 2 -->
-    <div class="question">
-      <h2>2. Whats is Privacy</h2>
-      <div class="options">
-        <label><input type="radio" name="q2" value="a">&lt;What does "personal data" mean?&gt;</label>
-        <label><input type="radio" name="q2" value="b">&lt;Why is it important to keep your passwords private?&gt;</label>
-        <label><input type="radio" name="q2" value="c">&lt;What is two-factor authentication?&gt;</label>
-        <label><input type="radio" name="q2" value="d">&lt;What is the difference between private and public information?&gt;</label>
-      </div>
-    </div>
+      </header>
 
-    <!-- Question 3 -->
-    <div class="question">
-      <h2>3. What Parties can it function?</h2>
-      <div class="options">
-        <label><input type="radio" name="q3" value="a"> First-party</label>
-        <label><input type="radio" name="q3" value="b"> Second Party</label>
-        <label><input type="radio" name="q3" value="c"> Necessary/strictly necessary</label>
+      <!-- 1. Content -->
+      <section id="Content">
+        <h2>1. Content</h2>
 
-      </div>
-    </div>
+        <h3 id="definitions">1.3 Definitions</h3>
+        <p>For the purposes of this policy:</p>
+        <ul>
+          <li><strong>“Personal Data”</strong> means any information that identifies or relates to an identified or identifiable individual.</li>
+          <li><strong>“Cookies”</strong> are small text files stored on your device by a website.</li>
+          <li><strong>“Services”</strong> refers to the website and any related products, features, or content we provide.</li>
+        </ul>
+      </section>
 
-    <!-- Question 4 -->
-    <div class="question">
-      <h2>4. 4. Can cookies track websites?</h2>
-      <div class="options">
-        <label><input type="radio" name="q4" value="a">&lt;True&gt;</label>
-        <label><input type="radio" name="q4" value="b">&lt;False&gt;</label>
+      <!-- 2. Information We Collect -->
     
-      </div>
-    </div>
+loading Cookies.html…]()
 
 
 
-    <div class="actions">
-      <button id="submitBtn">Submit</button>
-      <button id="resetBtn" type="button">Reset</button>
-    </div>
-
-    <div id="result"></div>
-  </div>
-
-  <script>
-    (function () {
-      const correctAnswers = {
-        q1: "c",
-        q2: "b",
-        q3: "b",
-        q4: "d",
-        q5: "a"
-      };
-
-      const submitBtn = document.getElementById("submitBtn");
-      const resetBtn = document.getElementById("resetBtn");
-      const resultDiv = document.getElementById("result");
-
-      submitBtn.addEventListener("click", function () {
-        let score = 0;
-        let total = Object.keys(correctAnswers).length;
-        let unanswered = [];
-
-        for (const q in correctAnswers) {
-          const selected = document.querySelector(`input[name="${q}"]:checked`);
-          if (!selected) {
-            unanswered.push(q);
-            continue;
-          }
-          if (selected.value === correctAnswers[q]) {
-            score++;
-          }
-        }
-
-        if (unanswered.length > 0) {
-          resultDiv.textContent = "Please answer all questions before submitting.";
-          resultDiv.className = "incorrect";
-          return;
-        }
-
-        const percentage = Math.round((score / total) * 100);
-        resultDiv.className = score === total ? "correct" : "incorrect";
-        resultDiv.textContent = `You scored ${score} out of ${total} (${percentage}%).`;
-      });
-
-      resetBtn.addEventListener("click", function () {
-        const radios = document.querySelectorAll('input[type="radio"]');
-        radios.forEach(r => r.checked = false);
-        resultDiv.textContent = "";
-        resultDiv.className = "";
-      });
-    })();
-  </script>
-</body>
-</html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-(https://github.com/user-attachments/files/24138165/about.me.html)
-[Homepage.html](https://github.com/user-attachments/files/24138155/Homepage.html)>
-[Uploading Cook<!DOCTYPE html>
+[Uploading Cookies.h<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Cookies and Privacy</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Cookies & Privacy Cookies</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
+    :root {
+      --bg: #db984c;
+      --card: #ffffff;
+      --text: #222222;
+      --muted: #666666;
+      --accent: #2563eb;
+      --border: #e2e2ea;
+    }
+
     * {
       box-sizing: border-box;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     }
 
     body {
       margin: 0;
-      padding: 20px;
-      background: #6b502c;
-      display: flex;
-      justify-content: center;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
     }
 
-    .quiz-container {
-      background: #a3714f;
-      max-width: 700px;
-      width: 100%;
-      padding: 24px;
+    .page {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 3rem;
+      display: grid;
+      grid-template-columns: minmax(0, 2.2fr) minmax(260px, 1fr);
+      gap: 2.5rem;
+    }
+
+    @media (max-width: 900px) {
+      .page {
+        grid-template-columns: minmax(0, 1fr);
+      }
+    }
+
+    .main-card {
+      background: var(--card);
       border-radius: 16px;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+      padding: 2rem;
+      box-shadow: 0 12px 30px rgba(15, 23, 42, 0.06);
+      border: 1px solid var(--border);
     }
 
     h1 {
       margin-top: 0;
-      text-align: center;
+      margin-bottom: 0.75rem;
+      font-size: 1.9rem;
+      letter-spacing: -0.02em;
     }
 
-    .question {
-      margin-bottom: 20px;
-      padding: 16px;
-      border-radius: 12px;
-      background: #917456;
-      border: 1px solid #e0e0e0;
+    .subtitle {
+      margin-top: 0;
+      margin-bottom: 1.5rem;
+      color: var(--muted);
+      font-size: 0.95rem;
     }
 
-    .question h2 {
-      margin: 0 0 12px 0;
-      font-size: 18px;
+    h2 {
+      margin-top: 2.25rem;
+      margin-bottom: 0.75rem;
+      font-size: 1.2rem;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.3rem;
     }
 
-    .options label {
-      display: block;
-      margin-bottom: 8px;
-      cursor: pointer;
+    h3 {
+      margin-top: 1.5rem;
+      margin-bottom: 0.25rem;
+      font-size: 1rem;
     }
 
-    .actions {
-      margin-top: 16px;
-      display: flex;
-      gap: 10px;
-      flex-wrap: wrap;
+    p {
+      margin-top: 0.4rem;
+      margin-bottom: 0.9rem;
+      font-size: 0.95rem;
     }
 
-    button {
-      border: none;
-      padding: 10px 18px;
-      border-radius: 999px;
-      cursor: pointer;
-      font-size: 14px;
+    ul {
+      margin-top: 0.3rem;
+      margin-bottom: 1rem;
+      padding-left: 1.2rem;
+      font-size: 0.95rem;
     }
 
-    #submitBtn {
-      background: #925d26;
-      color: white;
+    li + li {
+      margin-top: 0.25rem;
     }
 
-    #resetBtn {
-      background: #b58338;
-      color: #f3e5dd;
+    .toc-card {
+      background: var(--card);
+      border-radius: 16px;
+      padding: 1.5rem;
+      box-shadow: 0 12px 30px rgba(15, 23, 42, 0.06);
+      border: 1px solid var(--border);
+      position: sticky;
+      top: 1.5rem;
+      align-self: flex-start;
+      max-height: calc(100vh - 3rem);
+      overflow: auto;
     }
 
-    #result {
-      margin-top: 20px;
-      font-size: 16px;
+    .toc-title {
+      font-size: 1rem;
       font-weight: 600;
+      margin-top: 0;
+      margin-bottom: 0.75rem;
     }
 
-    .correct {
-      color: #a66a2f;
+    .toc {
+      list-style: none;
+      padding-left: 0;
+      margin: 0;
+      font-size: 0.9rem;
     }
 
-    .incorrect {
-      color: #dc2626;
+    .toc li {
+      margin: 0.1rem 0;
+    }
+
+    .toc a {
+      text-decoration: none;
+      color: var(--muted);
+      transition: color 0.15s ease;
+    }
+
+    .toc a:hover {
+      color: var(--accent);
+    }
+
+    .toc .toc-section {
+      margin-top: 0.35rem;
+      font-weight: 500;
+    }
+
+    .toc .toc-sub {
+      padding-left: 1rem;
+      font-weight: 400;
+      font-size: 0.88rem;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      border-radius: 999px;
+      padding: 0.15rem 0.75rem;
+      font-size: 0.78rem;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      margin-right: 0.4rem;
+      margin-bottom: 0.4rem;
+      background: #f9fafb;
+    }
+
+    .muted {
+      color: var(--muted);
+    }
+
+    .contact-box {
+      border-left: 3px solid var(--accent);
+      background: #f3f4ff;
+      padding: 0.75rem 1rem;
+      font-size: 0.9rem;
+      border-radius: 10px;
+      margin-top: 1.5rem;
+    }
+
+    code {
+      background: #9f5d37;
+      padding: 0.1rem 0.35rem;
+      border-radius: 4px;
+      font-size: 0.85rem;
     }
   </style>
 </head>
 <body>
-  <div class="quiz-container">
-    <h1>Cookies and Privacy</h1>
-    <p>Choose the best answer for each question, then click <strong>Submit</strong>.</p>
+  <main class="page">
 
-    <!-- Question 1 -->
-    <div class="question">
-      <h2>1. What are cookies</h2>
-      <div class="options">
-        <label><input type="radio" name="q1" value="a"> Small pieces of data that websites store on your device to remember information about you.</label>
-        <label><input type="radio" name="q1" value="b"> Files that clean viruses from your computer</label>
-        <label><input type="radio" name="q1" value="c"> Programs that track everything you do online without permission.</label>
-        <label><input type="radio" name="q1" value="d"> Graphics that make a website look nicer.</label>
-      </div>
-    </div>
+    <!-- MAIN CONTENT -->
+    <article class="main-card">
+      <header>
+        <h1>Cookies</h1>
+        <p class="subtitle">
+          Cookies are small text files that websites store on your device (computer, tablet, or phone) when you visit them. They help websites remember information about you, such as login details, preferences, or items in a shopping cart..
+        </p>
 
-    <!-- Question 2 -->
-    <div class="question">
-      <h2>2. Whats is Privacy</h2>
-      <div class="options">
-        <label><input type="radio" name="q2" value="a">&lt;What does "personal data" mean?&gt;</label>
-        <label><input type="radio" name="q2" value="b">&lt;Why is it important to keep your passwords private?&gt;</label>
-        <label><input type="radio" name="q2" value="c">&lt;What is two-factor authentication?&gt;</label>
-        <label><input type="radio" name="q2" value="d">&lt;What is the difference between private and public information?&gt;</label>
-      </div>
-    </div>
+      </header>
 
-    <!-- Question 3 -->
-    <div class="question">
-      <h2>3. What Parties can it function?</h2>
-      <div class="options">
-        <label><input type="radio" name="q3" value="a"> First-party</label>
-        <label><input type="radio" name="q3" value="b"> Second Party</label>
-        <label><input type="radio" name="q3" value="c"> Necessary/strictly necessary</label>
+      <!-- 1. Content -->
+      <section id="Content">
+        <h2>1. Content</h2>
 
-      </div>
-    </div>
+        <h3 id="definitions">1.3 Definitions</h3>
+        <p>For the purposes of this policy:</p>
+        <ul>
+          <li><strong>“Personal Data”</strong> means any information that identifies or relates to an identified or identifiable individual.</li>
+          <li><strong>“Cookies”</strong> are small text files stored on your device by a website.</li>
+          <li><strong>“Services”</strong> refers to the website and any related products, features, or content we provide.</li>
+        </ul>
+      </section>
 
-    <!-- Question 4 -->
-    <div class="question">
-      <h2>4. 4. Can cookies track websites?</h2>
-      <div class="options">
-        <label><input type="radio" name="q4" value="a">&lt;True&gt;</label>
-        <label><input type="radio" name="q4" value="b">&lt;False&gt;</label>
+      <!-- 2. Information We Collect -->
     
-      </div>
-    </div>
+tml…]()
 
 
 
-    <div class="actions">
-      <button id="submitBtn">Submit</button>
-      <button id="resetBtn" type="button">Reset</button>
-    </div>
-
-    <div id="result"></div>
-  </div>
-
-  <script>
-    (function () {
-      const correctAnswers = {
-        q1: "c",
-        q2: "b",
-        q3: "b",
-        q4: "d",
-        q5: "a"
-      };
-
-      const submitBtn = document.getElementById("submitBtn");
-      const resetBtn = document.getElementById("resetBtn");
-      const resultDiv = document.getElementById("result");
-
-      submitBtn.addEventListener("click", function () {
-        let score = 0;
-        let total = Object.keys(correctAnswers).length;
-        let unanswered = [];
-
-        for (const q in correctAnswers) {
-          const selected = document.querySelector(`input[name="${q}"]:checked`);
-          if (!selected) {
-            unanswered.push(q);
-            continue;
-          }
-          if (selected.value === correctAnswers[q]) {
-            score++;
-          }
-        }
-
-        if (unanswered.length > 0) {
-          resultDiv.textContent = "Please answer all questions before submitting.";
-          resultDiv.className = "incorrect";
-          return;
-        }
-
-        const percentage = Math.round((score / total) * 100);
-        resultDiv.className = score === total ? "correct" : "incorrect";
-        resultDiv.textContent = `You scored ${score} out of ${total} (${percentage}%).`;
-      });
-
-      resetBtn.addEventListener("click", function () {
-        const radios = document.querySelectorAll('input[type="radio"]');
-        radios.forEach(r => r.checked = false);
-        resultDiv.textContent = "";
-        resultDiv.className = "";
-      });
-    })();
-  </script>
-</body>
-</html>ies and privacy.html…]()
-
-
-[Uploadi
-<section class="about-me">
-  <h2>About Me</h2>
-  <p>
-    My name is <strong>Chandler Handberry</strong>, and my major is in 
-    <strong>Media and Entertainment</strong>. I am also minoring in 
-    <strong>Information Technology</strong> and currently learning how to 
-    develop websites.
-  </p>
-</section>
-
-<style>
-  .about-me {
-    max-width: 700px;
-    margin: 40px auto;
-    padding: 20px;
-    background: #c08561;
-    border-radius: 8px;
-    color: #333;
-    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 1.6;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  }
-
-  .about-me h2 {
-    font-size: 28px;
-    margin-bottom: 10px;
-    border-bottom: 2px solid #0077ff;
-    padding-bottom: 6px;
-    color: #222;
-  }
-
-  .about-me p {
-    font-size: 18px;
-  }
-</style>
-ng about me.html…]()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Uploadin<!DOCTYPE html>
+[Privacy.html](https://github.com/user-attachments/files/24159909/Privacy.html)<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KSU IT 3203</title>
-    <link rel="stylesheet" href="style-a.css">
+  <meta charset="UTF-8" />
+  <title>Privacy Policy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    :root {
+      --bg: #f7f7f9;
+      --card: #ffffff;
+      --text: #222222;
+      --muted: #666666;
+      --accent: #2563eb;
+      --border: #e2e2ea;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    .page {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 3rem;
+      display: grid;
+      grid-template-columns: minmax(0, 2.2fr) minmax(260px, 1fr);
+      gap: 2.5rem;
+    }
+
+    @media (max-width: 900px) {
+      .page {
+        grid-template-columns: minmax(0, 1fr);
+      }
+    }
+
+    .main-card {
+      background: var(--card);
+      border-radius: 16px;
+      padding: 2rem;
+      box-shadow: 0 12px 30px rgba(15, 23, 42, 0.06);
+      border: 1px solid var(--border);
+    }
+
+    h1 {
+      margin-top: 0;
+      margin-bottom: 0.75rem;
+      font-size: 1.9rem;
+      letter-spacing: -0.02em;
+    }
+
+    .subtitle {
+      margin-top: 0;
+      margin-bottom: 1.5rem;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    h2 {
+      margin-top: 2.25rem;
+      margin-bottom: 0.75rem;
+      font-size: 1.2rem;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.3rem;
+    }
+
+    h3 {
+      margin-top: 1.5rem;
+      margin-bottom: 0.25rem;
+      font-size: 1rem;
+    }
+
+    p {
+      margin-top: 0.4rem;
+      margin-bottom: 0.9rem;
+      font-size: 0.95rem;
+    }
+
+    ul {
+      margin-top: 0.3rem;
+      margin-bottom: 1rem;
+      padding-left: 1.2rem;
+      font-size: 0.95rem;
+    }
+
+    li + li {
+      margin-top: 0.25rem;
+    }
+
+    .toc-card {
+      background: var(--card);
+      border-radius: 16px;
+      padding: 1.5rem;
+      box-shadow: 0 12px 30px rgba(15, 23, 42, 0.06);
+      border: 1px solid var(--border);
+      position: sticky;
+      top: 1.5rem;
+      align-self: flex-start;
+      max-height: calc(100vh - 3rem);
+      overflow: auto;
+    }
+
+    .toc-title {
+      font-size: 1rem;
+      font-weight: 600;
+      margin-top: 0;
+      margin-bottom: 0.75rem;
+    }
+
+    .toc {
+      list-style: none;
+      padding-left: 0;
+      margin: 0;
+      font-size: 0.9rem;
+    }
+
+    .toc li {
+      margin: 0.1rem 0;
+    }
+
+    .toc a {
+      text-decoration: none;
+      color: var(--muted);
+      transition: color 0.15s ease;
+    }
+
+    .toc a:hover {
+      color: var(--accent);
+    }
+
+    .toc .toc-section {
+      margin-top: 0.35rem;
+      font-weight: 500;
+    }
+
+    .toc .toc-sub {
+      padding-left: 1rem;
+      font-weight: 400;
+      font-size: 0.88rem;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      border-radius: 999px;
+      padding: 0.15rem 0.75rem;
+      font-size: 0.78rem;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      margin-right: 0.4rem;
+      margin-bottom: 0.4rem;
+      background: #f9fafb;
+    }
+
+    .muted {
+      color: var(--muted);
+    }
+
+    .contact-box {
+      border-left: 3px solid var(--accent);
+      background: #f3f4ff;
+      padding: 0.75rem 1rem;
+      font-size: 0.9rem;
+      border-radius: 10px;
+      margin-top: 1.5rem;
+    }
+
+    code {
+      background: #f3f4f6;
+      padding: 0.1rem 0.35rem;
+      border-radius: 4px;
+      font-size: 0.85rem;
+    }
+  </style>
 </head>
- <style>
-        /* Professional Business Look */
+<body>
+  <main class="page">
 
-        body {
-            margin: 0;
-            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-            background: #f4f6f9; /* light corporate gray */
-            color: #333;
-        }
+    <!-- MAIN CONTENT -->
+    <article class="main-card">
+      <header>
+        <h1>Privacy Policy</h1>
+        <p class="subtitle">
+          This Privacy Policy explains how we collect, use, disclose, and protect your information when you use
+          our website and services.
+        </p>
+        <div class="tags">
+          <span class="tag">Privacy</span>
+          <span class="tag">Data Protection</span>
+          <span class="tag">User Rights</span>
+        </div>
+      </header>
 
-        /* Navigation / Table of Contents */
-        nav.main-menu {
-            background: #ffffff;
-            border-bottom: 2px solid #e0e0e0;
-            padding: 20px;
-            width: 90%;
-            margin: 20px auto;
-            border-radius: 8px;
-            box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-        }
+      <!-- 1. Introduction -->
+      <section id="introduction">
+        <h2>1. Introduction</h2>
 
-        nav.main-menu h2 {
-            color: #005a9e; /* corporate blue */
-            margin-top: 0;
-        }
-
-        nav.main-menu ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
-
-        nav.main-menu li {
-            padding: 8px 0;
-        }
-
-        nav.main-menu a {
-            color: #005a9e;
-            font-weight: 600;
-            text-decoration: none;
-        }
-
-        nav.main-menu a:hover {
-            text-decoration: underline;
-        }
-
-        /* Main Content Container */
-        main {
-            background: #ffffff;
-            width: 90%;
-            margin: 20px auto;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-        }
-
-        h1 {
-            color: #003e6b;
-        }
-
-        h2, h3 {
-            color: #005a9e;
-        }
-
-        img {
-            border-radius: 6px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.12);
-        }
-
-        /* External Tools Section */
-        .external-sites a {
-            display: inline-block;
-            margin: 10px 15px 10px 0;
-            padding: 10px 15px;
-            background: #005a9e;
-            color: white;
-            border-radius: 6px;
-            text-decoration: none;
-            font-size: 14px;
-            transition: 0.2s;
-        }
-
-        .external-sites a img {
-            vertical-align: middle;
-            margin-right: 6px;
-        }
-
-        .external-sites a:hover {
-            background: #003e6b;
-        }
         
-    </style>
-</head>
-
-<body>
-<body>
-
-    <!-- MAIN MENU / TABLE OF CONTENTS -->
-    <nav class="main-menu">
-        <h2>Table of Contents</h2>
-        <ul>
-            <li><a href="Homepage.html">Home Page</a></li>
-            <li><a href="references.html">Reference / Resources Page</a></li>
-            <li><a href="key concept.html">Key Concepts Page</a></li>
-            <li><a href="Cookies.html">Cookies</a></li>
-            <li><a href="Privacy.html">Privacy</a></li>
-            <li><a href="about me.html">About / Author Page</a></li>
-            <li><a href="quiz.html">Quiz Page</a></li>
-        </ul>
-    </nav>
-
-    <main>
-
-        <h1>Cookies and Privacy</h1>
-
-        <img width="200" src="https://images.pexels.com/photos/230325/pexels-photo-230325.jpeg?cs=srgb&dl=pexels-fotios-photos-230325.jpg&fm=jpg" alt="Cookies Image">
-
-        <h2>Introduction</h2>
-        <p>
-            For my research I am exploring the topic of website cookies and online privacy.
-            Website cookies are small text files stored in your browser whenever you visit a website.
-            These cookies collect data about your behavior and preferences, often for advertising
-            or analytics purposes. While they improve user experience, they can also affect the user's privacy.
         </p>
 
-        <h3>Tools Used in This Class</h3>
-        <div class="external-sites">
-
-            <a href="http://127.0.0.1:3000/Users/chandlerhandberry/Desktop/<!DOCTYPE html>.html?serverWindowId=09de97ae-be36-42f0-8031-f2d6770e373c" target="_blank">
-                <img width="20" src="https://code.visualstudio.com/assets/images/code-stable.png">
-                References
-            </a>
-
-            <a href="https://pages.github.com" target="_blank">
-                <img width="20" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png">
-                GitHub Pages
-            </a>
-
-            <a href="https://codepen.io/" target="_blank">
-                <img width="13" src="https://blog.codepen.io/wp-content/uploads/2023/09/logo-black.png">
-                CodePen
-            </a>
-
-        </div>
-
-    </main>
-
-</body>
-</html>
-g Homepage.html…]()
-
-
-
-
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KSU IT 3203</title>
-    <link rel="stylesheet" href="style-a.css">
-</head>
- <style>
-        /* Professional Business Look */
-
-        body {
-            margin: 0;
-            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-            background: #f4f6f9; /* light corporate gray */
-            color: #333;
-        }
-
-        /* Navigation / Table of Contents */
-        nav.main-menu {
-            background: #ffffff;
-            border-bottom: 2px solid #e0e0e0;
-            padding: 20px;
-            width: 90%;
-            margin: 20px auto;
-            border-radius: 8px;
-            box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-        }
-
-        nav.main-menu h2 {
-            color: #005a9e; /* corporate blue */
-            margin-top: 0;
-        }
-
-        nav.main-menu ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
-
-        nav.main-menu li {
-            padding: 8px 0;
-        }
-
-        nav.main-menu a {
-            color: #005a9e;
-            font-weight: 600;
-            text-decoration: none;
-        }
-
-        nav.main-menu a:hover {
-            text-decoration: underline;
-        }
-
-        /* Main Content Container */
-        main {
-            background: #ffffff;
-            width: 90%;
-            margin: 20px auto;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-        }
-
-        h1 {
-            color: #003e6b;
-        }
-
-        h2, h3 {
-            color: #005a9e;
-        }
-
-        img {
-            border-radius: 6px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.12);
-        }
-
-        /* External Tools Section */
-        .external-sites a {
-            display: inline-block;
-            margin: 10px 15px 10px 0;
-            padding: 10px 15px;
-            background: #005a9e;
-            color: white;
-            border-radius: 6px;
-            text-decoration: none;
-            font-size: 14px;
-            transition: 0.2s;
-        }
-
-        .external-sites a img {
-            vertical-align: middle;
-            margin-right: 6px;
-        }
-
-        .external-sites a:hover {
-            background: #003e6b;
-        }
-        
-    </style>
-</head>
-
-<body>
-<body>
-
-    <!-- MAIN MENU / TABLE OF CONTENTS -->
-    <nav class="main-menu">
-        <h2>Table of Contents</h2>
-        <ul>
-            <li><a href="Homepage.html">Home Page</a></li>
-            <li><a href="references.html">Reference / Resources Page</a></li>
-            <li><a href="key concept.html">Key Concepts Page</a></li>
-            <li><a href="Cookies.html">Cookies</a></li>
-            <li><a href="Privacy.html">Privacy</a></li>
-            <li><a href="about me.html">About / Author Page</a></li>
-            <li><a href="quiz.html">Quiz Page</a></li>
-        </ul>
-    </nav>
-
-    <main>
-
-        <h1>Cookies and Privacy</h1>
-
-        <img width="200" src="https://images.pexels.com/photos/230325/pexels-photo-230325.jpeg?cs=srgb&dl=pexels-fotios-photos-230325.jpg&fm=jpg" alt="Cookies Image">
-
-        <h2>Introduction</h2>
+        <h3 id="purpose">1.2 Purpose of This Policy</h3>
         <p>
-            For my research I am exploring the topic of website cookies and online privacy.
-            Website cookies are small text files stored in your browser whenever you visit a website.
-            These cookies collect data about your behavior and preferences, often for advertising
-            or analytics purposes. While they improve user experience, they can also affect the user's privacy.
+          This Privacy Policy explains what personal data we collect, how we use it, with whom we share it, and
+          the rights and choices available to you.
         </p>
 
-        <h3>Tools Used in This Class</h3>
-        <div class="external-sites">
-
-            <a href="http://127.0.0.1:3000/Users/chandlerhandberry/Desktop/<!DOCTYPE html>.html?serverWindowId=09de97ae-be36-42f0-8031-f2d6770e373c" target="_blank">
-                <img width="20" src="https://code.visualstudio.com/assets/images/code-stable.png">
-                References
-            </a>
-
-            <a href="https://pages.github.com" target="_blank">
-                <img width="20" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png">
-                GitHub Pages
-            </a>
-
-            <a href="https://codepen.io/" target="_blank">
-                <img width="13" src="https://blog.codepen.io/wp-content/uploads/2023/09/logo-black.png">
-                CodePen
-            </a>
-
-        </div>
-
-    </main>
-
-</body>
-</html>
-page.html…]()
-
-
-
-[Uploading H<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KSU IT 3203</title>
-    <link rel="stylesheet" href="style-a.css">
-</head>
- <style>
-        /* Professional Business Look */
-
-        body {
-            margin: 0;
-            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-            background: #f4f6f9; /* light corporate gray */
-            color: #333;
-        }
-
-        /* Navigation / Table of Contents */
-        nav.main-menu {
-            background: #ffffff;
-            border-bottom: 2px solid #e0e0e0;
-            padding: 20px;
-            width: 90%;
-            margin: 20px auto;
-            border-radius: 8px;
-            box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-        }
-
-        nav.main-menu h2 {
-            color: #005a9e; /* corporate blue */
-            margin-top: 0;
-        }
-
-        nav.main-menu ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
-
-        nav.main-menu li {
-            padding: 8px 0;
-        }
-
-        nav.main-menu a {
-            color: #005a9e;
-            font-weight: 600;
-            text-decoration: none;
-        }
-
-        nav.main-menu a:hover {
-            text-decoration: underline;
-        }
-
-        /* Main Content Container */
-        main {
-            background: #ffffff;
-            width: 90%;
-            margin: 20px auto;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-        }
-
-        h1 {
-            color: #003e6b;
-        }
-
-        h2, h3 {
-            color: #005a9e;
-        }
-
-        img {
-            border-radius: 6px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.12);
-        }
-
-        /* External Tools Section */
-        .external-sites a {
-            display: inline-block;
-            margin: 10px 15px 10px 0;
-            padding: 10px 15px;
-            background: #005a9e;
-            color: white;
-            border-radius: 6px;
-            text-decoration: none;
-            font-size: 14px;
-            transition: 0.2s;
-        }
-
-        .external-sites a img {
-            vertical-align: middle;
-            margin-right: 6px;
-        }
-
-        .external-sites a:hover {
-            background: #003e6b;
-        }
-        
-    </style>
-</head>
-
-<body>
-<body>
-
-    <!-- MAIN MENU / TABLE OF CONTENTS -->
-    <nav class="main-menu">
-        <h2>Table of Contents</h2>
-        <ul>
-            <li><a href="Homepage.html">Home Page</a></li>
-            <li><a href="references.html">Reference / Resources Page</a></li>
-            <li><a href="key concept.html">Key Concepts Page</a></li>
-            <li><a href="content-page1.html">Main Content Page 1</a></li>
-            <li><a href="content-page2.html">Main Content Page 2</a></li>
-            <li><a href="about me.html">About / Author Page</a></li>
-            <li><a href="quiz.html">Quiz Page</a></li>
-        </ul>
-    </nav>
-
-    <main>
-
-        <h1>Cookies and Privacy</h1>
-
-        <img width="200" src="https://images.pexels.com/photos/230325/pexels-photo-230325.jpeg?cs=srgb&dl=pexels-fotios-photos-230325.jpg&fm=jpg" alt="Cookies Image">
-
-        <h2>Introduction</h2>
+        <h3 id="scope">1.3 Scope</h3>
         <p>
-            For my research I am exploring the topic of website cookies and online privacy.
-            Website cookies are small text files stored in your browser whenever you visit a website.
-            These cookies collect data about your behavior and preferences, often for advertising
-            or analytics purposes. While they improve user experience, they can also affect the user's privacy.
+          This Policy applies to all visitors, users, and others who access our Services (“you”). By using our
+          Services, you agree to the collection and use of information in accordance with this Policy.
         </p>
+      </section>
 
-        <h3>Tools Used in This Class</h3>
-        <div class="external-sites">
-
-            <a href="http://127.0.0.1:3000/Users/chandlerhandberry/Desktop/<!DOCTYPE html>.html?serverWindowId=09de97ae-be36-42f0-8031-f2d6770e373c" target="_blank">
-                <img width="20" src="https://code.visualstudio.com/assets/images/code-stable.png">
-                References
-            </a>
-
-            <a href="https://pages.github.com" target="_blank">
-                <img width="20" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png">
-                GitHub Pages
-            </a>
-
-            <a href="https://codepen.io/" target="_blank">
-                <img width="13" src="https://blog.codepen.io/wp-content/uploads/2023/09/logo-black.png">
-                CodePen
-            </a>
-
-        </div>
-
-    </main>
-
-</body>
-</html>
-omepage.html…]()
+    
 
 
 
-
+[quiz.html](https://github.com/user-attachments/files/24159913/quiz.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KSU IT 3203</title>
-    <link rel="stylesheet" href="style-a.css">
+  <meta charset="UTF-8" />
+  <title>Cookies and Privacy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    * {
+      box-sizing: border-box;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    body {
+      margin: 0;
+      padding: 20px;
+      background: #6b502c;
+      display: flex;
+      justify-content: center;
+    }
+
+    .quiz-container {
+      background: #a3714f;
+      max-width: 700px;
+      width: 100%;
+      padding: 24px;
+      border-radius: 16px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    }
+
+    h1 {
+      margin-top: 0;
+      text-align: center;
+    }
+
+    .question {
+      margin-bottom: 20px;
+      padding: 16px;
+      border-radius: 12px;
+      background: #917456;
+      border: 1px solid #e0e0e0;
+    }
+
+    .question h2 {
+      margin: 0 0 12px 0;
+      font-size: 18px;
+    }
+
+    .options label {
+      display: block;
+      margin-bottom: 8px;
+      cursor: pointer;
+    }
+
+    .actions {
+      margin-top: 16px;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    button {
+      border: none;
+      padding: 10px 18px;
+      border-radius: 999px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+
+    #submitBtn {
+      background: #925d26;
+      color: white;
+    }
+
+    #resetBtn {
+      background: #b58338;
+      color: #f3e5dd;
+    }
+
+    #result {
+      margin-top: 20px;
+      font-size: 16px;
+      font-weight: 600;
+    }
+
+    .correct {
+      color: #a66a2f;
+    }
+
+    .incorrect {
+      color: #dc2626;
+    }
+  </style>
 </head>
- <style>
-        /* Professional Business Look */
-
-        body {
-            margin: 0;
-            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-            background: #f4f6f9; /* light corporate gray */
-            color: #333;
-        }
-
-        /* Navigation / Table of Contents */
-        nav.main-menu {
-            background: #ffffff;
-            border-bottom: 2px solid #e0e0e0;
-            padding: 20px;
-            width: 90%;
-            margin: 20px auto;
-            border-radius: 8px;
-            box-shadow: 0 2px 6px rgba(0,0,0,0.08);
-        }
-
-        nav.main-menu h2 {
-            color: #005a9e; /* corporate blue */
-            margin-top: 0;
-        }
-
-        nav.main-menu ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-        }
-
-        nav.main-menu li {
-            padding: 8px 0;
-        }
-
-        nav.main-menu a {
-            color: #005a9e;
-            font-weight: 600;
-            text-decoration: none;
-        }
-
-        nav.main-menu a:hover {
-            text-decoration: underline;
-        }
-
-        /* Main Content Container */
-        main {
-            background: #ffffff;
-            width: 90%;
-            margin: 20px auto;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-        }
-
-        h1 {
-            color: #003e6b;
-        }
-
-        h2, h3 {
-            color: #005a9e;
-        }
-
-        img {
-            border-radius: 6px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.12);
-        }
-
-        /* External Tools Section */
-        .external-sites a {
-            display: inline-block;
-            margin: 10px 15px 10px 0;
-            padding: 10px 15px;
-            background: #005a9e;
-            color: white;
-            border-radius: 6px;
-            text-decoration: none;
-            font-size: 14px;
-            transition: 0.2s;
-        }
-
-        .external-sites a img {
-            vertical-align: middle;
-            margin-right: 6px;
-        }
-
-        .external-sites a:hover {
-            background: #003e6b;
-        }
-        
-    </style>
-</head>
-
 <body>
-<body>
+  <div class="quiz-container">
+    <h1>Cookies and Privacy</h1>
+    <p>Choose the best answer for each question, then click <strong>Submit</strong>.</p>
 
-    <!-- MAIN MENU / TABLE OF CONTENTS -->
-    <nav class="main-menu">
-        <h2>Table of Contents</h2>
-        <ul>
-            <li><a href="Homepage.html">Home Page</a></li>
-            <li><a href="references.html">Reference / Resources Page</a></li>
-            <li><a href="key concept.html">Key Concepts Page</a></li>
-            <li><a href="content-page1.html">Main Content Page 1</a></li>
-            <li><a href="content-page2.html">Main Content Page 2</a></li>
-            <li><a href="about me.html">About / Author Page</a></li>
-            <li><a href="quiz.html">Quiz Page</a></li>
-        </ul>
-    </nav>
+    <!-- Question 1 -->
+    <div class="question">
+      <h2>1. What are cookies</h2>
+      <div class="options">
+        <label><input type="radio" name="q1" value="a"> Small pieces of data that websites store on your device to remember information about you.</label>
+        <label><input type="radio" name="q1" value="b"> Files that clean viruses from your computer</label>
+        <label><input type="radio" name="q1" value="c"> Programs that track everything you do online without permission.</label>
+        <label><input type="radio" name="q1" value="d"> Graphics that make a website look nicer.</label>
+      </div>
+    </div>
 
-    <main>
+    <!-- Question 2 -->
+    <div class="question">
+      <h2>2. Whats is Privacy</h2>
+      <div class="options">
+        <label><input type="radio" name="q2" value="a">&lt;What does "personal data" mean?&gt;</label>
+        <label><input type="radio" name="q2" value="b">&lt;Why is it important to keep your passwords private?&gt;</label>
+        <label><input type="radio" name="q2" value="c">&lt;What is two-factor authentication?&gt;</label>
+        <label><input type="radio" name="q2" value="d">&lt;What is the difference between private and public information?&gt;</label>
+      </div>
+    </div>
 
-        <h1>Cookies and Privacy</h1>
+    <!-- Question 3 -->
+    <div class="question">
+      <h2>3. What Parties can it function?</h2>
+      <div class="options">
+        <label><input type="radio" name="q3" value="a"> First-party</label>
+        <label><input type="radio" name="q3" value="b"> Second Party</label>
+        <label><input type="radio" name="q3" value="c"> Necessary/strictly necessary</label>
 
-        <img width="200" src="https://images.pexels.com/photos/230325/pexels-photo-230325.jpeg?cs=srgb&dl=pexels-fotios-photos-230325.jpg&fm=jpg" alt="Cookies Image">
+      </div>
+    </div>
 
-        <h2>Introduction</h2>
-        <p>
-            For my research I am exploring the topic of website cookies and online privacy.
-            Website cookies are small text files stored in your browser whenever you visit a website.
-            These cookies collect data about your behavior and preferences, often for advertising
-            or analytics purposes. While they improve user experience, they can also affect the user's privacy.
-        </p>
+    <!-- Question 4 -->
+    <div class="question">
+      <h2>4. 4. Can cookies track websites?</h2>
+      <div class="options">
+        <label><input type="radio" name="q4" value="a">&lt;True&gt;</label>
+        <label><input type="radio" name="q4" value="b">&lt;False&gt;</label>
+    
+      </div>
+    </div>
 
-        <h3>Tools Used in This Class</h3>
-        <div class="external-sites">
 
-            <a href="http://127.0.0.1:3000/Users/chandlerhandberry/Desktop/<!DOCTYPE html>.html?serverWindowId=09de97ae-be36-42f0-8031-f2d6770e373c" target="_blank">
-                <img width="20" src="https://code.visualstudio.com/assets/images/code-stable.png">
-                References
-            </a>
 
-            <a href="https://pages.github.com" target="_blank">
-                <img width="20" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png">
-                GitHub Pages
-            </a>
+    <div class="actions">
+      <button id="submitBtn">Submit</button>
+      <button id="resetBtn" type="button">Reset</button>
+    </div>
 
-            <a href="https://codepen.io/" target="_blank">
-                <img width="13" src="https://blog.codepen.io/wp-content/uploads/2023/09/logo-black.png">
-                CodePen
-            </a>
+    <div id="result"></div>
+  </div>
 
-        </div>
+  <script>
+    (function () {
+      const correctAnswers = {
+        q1: "c",
+        q2: "b",
+        q3: "b",
+        q4: "d",
+        q5: "a"
+      };
 
-    </main>
+      const submitBtn = document.getElementById("submitBtn");
+      const resetBtn = document.getElementById("resetBtn");
+      const resultDiv = document.getElementById("result");
 
+      submitBtn.addEventListener("click", function () {
+        let score = 0;
+        let total = Object.keys(correctAnswers).length;
+        let unanswered = [];
+
+        for (const q in correctAnswers) {
+          const selected = document.querySelector(`input[name="${q}"]:checked`);
+          if (!selected) {
+            unanswered.push(q);
+            continue;
+          }
+          if (selected.value === correctAnswers[q]) {
+            score++;
+          }
+        }
+
+        if (unanswered.length > 0) {
+          resultDiv.textContent = "Please answer all questions before submitting.";
+          resultDiv.className = "incorrect";
+          return;
+        }
+
+        const percentage = Math.round((score / total) * 100);
+        resultDiv.className = score === total ? "correct" : "incorrect";
+        resultDiv.textContent = `You scored ${score} out of ${total} (${percentage}%).`;
+      });
+
+      resetBtn.addEventListener("click", function () {
+        const radios = document.querySelectorAll('input[type="radio"]');
+        radios.forEach(r => r.checked = false);
+        resultDiv.textContent = "";
+        resultDiv.className = "";
+      });
+    })();
+  </script>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+   
