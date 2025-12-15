@@ -1,4 +1,4 @@
-[Cookies.html](https://github.com/user-attachments/files/24159871/Cookies.html)
+[Cookies.html](https://github.com/user-attachments/files/24174675/Cookies.html)[Cookies.html](https://github.com/user-attachments/files/24159871/Cookies.html)
 [Homepage.html](https://github.com/user-attachments/files/24159746/Homepage.html)<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -1390,6 +1390,217 @@ tml…]()
 
 
 
+[Uploa<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Cookies & Privacy Cookies</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    :root {
+      --bg: #db984c;
+      --card: #ffffff;
+      --text: #222222;
+      --muted: #666666;
+      --accent: #2563eb;
+      --border: #e2e2ea;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    .page {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 3rem;
+      display: grid;
+      grid-template-columns: minmax(0, 2.2fr) minmax(260px, 1fr);
+      gap: 2.5rem;
+    }
+
+    @media (max-width: 900px) {
+      .page {
+        grid-template-columns: minmax(0, 1fr);
+      }
+    }
+
+    .main-card {
+      background: var(--card);
+      border-radius: 16px;
+      padding: 2rem;
+      box-shadow: 0 12px 30px rgba(15, 23, 42, 0.06);
+      border: 1px solid var(--border);
+    }
+
+    h1 {
+      margin-top: 0;
+      margin-bottom: 0.75rem;
+      font-size: 1.9rem;
+      letter-spacing: -0.02em;
+    }
+
+    .subtitle {
+      margin-top: 0;
+      margin-bottom: 1.5rem;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    h2 {
+      margin-top: 2.25rem;
+      margin-bottom: 0.75rem;
+      font-size: 1.2rem;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.3rem;
+    }
+
+    h3 {
+      margin-top: 1.5rem;
+      margin-bottom: 0.25rem;
+      font-size: 1rem;
+    }
+
+    p {
+      margin-top: 0.4rem;
+      margin-bottom: 0.9rem;
+      font-size: 0.95rem;
+    }
+
+    ul {
+      margin-top: 0.3rem;
+      margin-bottom: 1rem;
+      padding-left: 1.2rem;
+      font-size: 0.95rem;
+    }
+
+    li + li {
+      margin-top: 0.25rem;
+    }
+
+    .toc-card {
+      background: var(--card);
+      border-radius: 16px;
+      padding: 1.5rem;
+      box-shadow: 0 12px 30px rgba(15, 23, 42, 0.06);
+      border: 1px solid var(--border);
+      position: sticky;
+      top: 1.5rem;
+      align-self: flex-start;
+      max-height: calc(100vh - 3rem);
+      overflow: auto;
+    }
+
+    .toc-title {
+      font-size: 1rem;
+      font-weight: 600;
+      margin-top: 0;
+      margin-bottom: 0.75rem;
+    }
+
+    .toc {
+      list-style: none;
+      padding-left: 0;
+      margin: 0;
+      font-size: 0.9rem;
+    }
+
+    .toc li {
+      margin: 0.1rem 0;
+    }
+
+    .toc a {
+      text-decoration: none;
+      color: var(--muted);
+      transition: color 0.15s ease;
+    }
+
+    .toc a:hover {
+      color: var(--accent);
+    }
+
+    .toc .toc-section {
+      margin-top: 0.35rem;
+      font-weight: 500;
+    }
+
+    .toc .toc-sub {
+      padding-left: 1rem;
+      font-weight: 400;
+      font-size: 0.88rem;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      border-radius: 999px;
+      padding: 0.15rem 0.75rem;
+      font-size: 0.78rem;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      margin-right: 0.4rem;
+      margin-bottom: 0.4rem;
+      background: #f9fafb;
+    }
+
+    .muted {
+      color: var(--muted);
+    }
+
+    .contact-box {
+      border-left: 3px solid var(--accent);
+      background: #bf7e46;
+      padding: 0.75rem 1rem;
+      font-size: 0.9rem;
+      border-radius: 10px;
+      margin-top: 1.5rem;
+    }
+
+    code {
+      background: #9f5d37;
+      padding: 0.1rem 0.35rem;
+      border-radius: 4px;
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+
+    <!-- MAIN CONTENT -->
+    <article class="main-card">
+      <header>
+        <h1>Cookies</h1>
+        <p class="subtitle">
+          Cookies are small text files that websites store on your device (computer, tablet, or phone) when you visit them. They help websites remember information about you, such as login details, preferences, or items in a shopping cart..
+        </p>
+
+      </header>
+
+      <!-- 1. Content -->
+      <section id="Content">
+        <h2></h2>
+
+        <h3 id="definitions"></h3>
+        <p></p>
+        <ul>
+          <li><strong>“Ad-Blockers”</strong> Tools like uBlock Origin the can block trackers and cookie banner.</li>
+          <li><strong>“First party”</strong> a small data file created and stored by the website you are visiting.</li>
+          <li><strong>“Third parties ”</strong> Data file placed by a third-party website or service that has data from the user device under the website the user currently using.</li>
+        </ul>
+      </section>
+
+      <!-- 2. Information We Collect -->
+    
+ding Cookies.html…]()
 
 
 
@@ -1398,6 +1609,225 @@ tml…]()
 
 
 
+
+
+[Privacy.html](https://github.com/user-attachments/files/24174676/Privacy.html)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Privacy </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    :root {
+      --bg: #b5753d;
+      --card: #eac783;
+      --text: #222222;
+      --muted: #000000;
+      --accent: #2563eb;
+      --border: #e2e2ea;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    .page {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 3rem;
+      display: grid;
+      grid-template-columns: minmax(0, 2.2fr) minmax(260px, 1fr);
+      gap: 2.5rem;
+    }
+
+    @media (max-width: 900px) {
+      .page {
+        grid-template-columns: minmax(0, 1fr);
+      }
+    }
+
+    .main-card {
+      background: var(--card);
+      border-radius: 16px;
+      padding: 2rem;
+      box-shadow: 0 12px 30px rgba(15, 23, 42, 0.06);
+      border: 1px solid var(--border);
+    }
+
+    h1 {
+      margin-top: 0;
+      margin-bottom: 0.75rem;
+      font-size: 1.9rem;
+      letter-spacing: -0.02em;
+    }
+
+    .subtitle {
+      margin-top: 0;
+      margin-bottom: 1.5rem;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    h2 {
+      margin-top: 2.25rem;
+      margin-bottom: 0.75rem;
+      font-size: 1.2rem;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.3rem;
+    }
+
+    h3 {
+      margin-top: 1.5rem;
+      margin-bottom: 0.25rem;
+      font-size: 1rem;
+    }
+
+    p {
+      margin-top: 0.4rem;
+      margin-bottom: 0.9rem;
+      font-size: 0.95rem;
+    }
+
+    ul {
+      margin-top: 0.3rem;
+      margin-bottom: 1rem;
+      padding-left: 1.2rem;
+      font-size: 0.95rem;
+    }
+
+    li + li {
+      margin-top: 0.25rem;
+    }
+
+    .toc-card {
+      background: var(--card);
+      border-radius: 16px;
+      padding: 1.5rem;
+      box-shadow: 0 12px 30px rgba(15, 23, 42, 0.06);
+      border: 1px solid var(--border);
+      position: sticky;
+      top: 1.5rem;
+      align-self: flex-start;
+      max-height: calc(100vh - 3rem);
+      overflow: auto;
+    }
+
+    .toc-title {
+      font-size: 1rem;
+      font-weight: 600;
+      margin-top: 0;
+      margin-bottom: 0.75rem;
+    }
+
+    .toc {
+      list-style: none;
+      padding-left: 0;
+      margin: 0;
+      font-size: 0.9rem;
+    }
+
+    .toc li {
+      margin: 0.1rem 0;
+    }
+
+    .toc a {
+      text-decoration: none;
+      color: var(--muted);
+      transition: color 0.15s ease;
+    }
+
+    .toc a:hover {
+      color: var(--accent);
+    }
+
+    .toc .toc-section {
+      margin-top: 0.35rem;
+      font-weight: 500;
+    }
+
+    .toc .toc-sub {
+      padding-left: 1rem;
+      font-weight: 400;
+      font-size: 0.88rem;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      border-radius: 999px;
+      padding: 0.15rem 0.75rem;
+      font-size: 0.78rem;
+      border: 1px solid var(--border);
+      color: var(--muted);
+      margin-right: 0.4rem;
+      margin-bottom: 0.4rem;
+      background: #f9fafb;
+    }
+
+    .muted {
+      color: var(--muted);
+    }
+
+    .contact-box {
+      border-left: 3px solid var(--accent);
+      background: #f3f4ff;
+      padding: 0.75rem 1rem;
+      font-size: 0.9rem;
+      border-radius: 10px;
+      margin-top: 1.5rem;
+    }
+
+    code {
+      background: #f3f4f6;
+      padding: 0.1rem 0.35rem;
+      border-radius: 4px;
+      font-size: 0.85rem;
+    }
+  </style>
+</head>
+<body>
+  <main class="page">
+
+    <!-- MAIN CONTENT -->
+    <article class="main-card">
+      <header>
+        <h1>Privacy </h1>
+        <p class="subtitle">
+          Privacy is when the system automatically protects the user data with a maximum in security somewhere in the settings that requires the user to choose to either accept the cookies and have their algorithm changed or deny cookies and keep their account secure from bots and adds.
+        </p>
+        <div class="tags">
+        
+        </div>
+      </header>
+
+      <!-- 1. Introduction -->
+      <section id="introduction">
+        <h2></h2>
+
+        
+        </p>
+
+        <h3 id="purpose"> GDPR</h3>
+        <p>
+          Known as general Data Production Regulation,GDPR is an EU law with mandatory rules for how organisations and companies must use personal data in an integrity friendly way.
+        </p>
+
+        <h3 id="scope">ePrivacye</h3>
+        <p>
+          This Policy refers to the EY's legal framework and protects privacy by preventing unauthorized access and ensuring data integrity by preventing cookies and spam.
+        </p>
+      </section>
+
+    
 
 
      
